@@ -5,6 +5,13 @@ __pycache__/
 # C extensions
 *.so
 
+*.zip
+*.rar
+*.7z
+
+*.prn
+*.lbl
+
 # Distribution / packaging
 .Python
 env/
