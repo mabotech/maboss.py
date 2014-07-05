@@ -1,0 +1,198 @@
+running install
+running bdist_egg
+running egg_info
+writing requirements to mabolab.egg-info\requires.txt
+writing mabolab.egg-info\PKG-INFO
+writing top-level names to mabolab.egg-info\top_level.txt
+writing dependency_links to mabolab.egg-info\dependency_links.txt
+reading manifest file 'mabolab.egg-info\SOURCES.txt'
+writing manifest file 'mabolab.egg-info\SOURCES.txt'
+installing library code to build\bdist.win-amd64\egg
+running install_lib
+running build_py
+creating build\bdist.win-amd64\egg
+creating build\bdist.win-amd64\egg\mabolab
+creating build\bdist.win-amd64\egg\mabolab\archiving
+copying build\lib\mabolab\archiving\__init__.py -> build\bdist.win-amd64\egg\mabolab\archiving
+creating build\bdist.win-amd64\egg\mabolab\cache
+copying build\lib\mabolab\cache\__init__.py -> build\bdist.win-amd64\egg\mabolab\cache
+creating build\bdist.win-amd64\egg\mabolab\database
+copying build\lib\mabolab\database\database.py -> build\bdist.win-amd64\egg\mabolab\database
+copying build\lib\mabolab\database\ora_pool.py -> build\bdist.win-amd64\egg\mabolab\database
+copying build\lib\mabolab\database\pool.py -> build\bdist.win-amd64\egg\mabolab\database
+copying build\lib\mabolab\database\__init__.py -> build\bdist.win-amd64\egg\mabolab\database
+creating build\bdist.win-amd64\egg\mabolab\equipment
+creating build\bdist.win-amd64\egg\mabolab\equipment\opc
+copying build\lib\mabolab\equipment\opc\opclib.py -> build\bdist.win-amd64\egg\mabolab\equipment\opc
+copying build\lib\mabolab\equipment\opc\__init__.py -> build\bdist.win-amd64\egg\mabolab\equipment\opc
+creating build\bdist.win-amd64\egg\mabolab\equipment\serial
+copying build\lib\mabolab\equipment\serial\__init__.py -> build\bdist.win-amd64\egg\mabolab\equipment\serial
+copying build\lib\mabolab\equipment\__init__.py -> build\bdist.win-amd64\egg\mabolab\equipment
+creating build\bdist.win-amd64\egg\mabolab\label
+copying build\lib\mabolab\label\prn_factory.py -> build\bdist.win-amd64\egg\mabolab\label
+copying build\lib\mabolab\label\str_format.py -> build\bdist.win-amd64\egg\mabolab\label
+copying build\lib\mabolab\label\__init__.py -> build\bdist.win-amd64\egg\mabolab\label
+creating build\bdist.win-amd64\egg\mabolab\logging
+copying build\lib\mabolab\logging\__init__.py -> build\bdist.win-amd64\egg\mabolab\logging
+creating build\bdist.win-amd64\egg\mabolab\message
+copying build\lib\mabolab\message\mail.py -> build\bdist.win-amd64\egg\mabolab\message
+copying build\lib\mabolab\message\__init__.py -> build\bdist.win-amd64\egg\mabolab\message
+creating build\bdist.win-amd64\egg\mabolab\monitor
+copying build\lib\mabolab\monitor\__init__.py -> build\bdist.win-amd64\egg\mabolab\monitor
+creating build\bdist.win-amd64\egg\mabolab\portal
+copying build\lib\mabolab\portal\__init__.py -> build\bdist.win-amd64\egg\mabolab\portal
+creating build\bdist.win-amd64\egg\mabolab\processbuilder
+copying build\lib\mabolab\processbuilder\__init__.py -> build\bdist.win-amd64\egg\mabolab\processbuilder
+creating build\bdist.win-amd64\egg\mabolab\report
+copying build\lib\mabolab\report\r.py -> build\bdist.win-amd64\egg\mabolab\report
+copying build\lib\mabolab\report\__init__.py -> build\bdist.win-amd64\egg\mabolab\report
+creating build\bdist.win-amd64\egg\mabolab\rule
+creating build\bdist.win-amd64\egg\mabolab\rule\prolog
+copying build\lib\mabolab\rule\prolog\__init__.py -> build\bdist.win-amd64\egg\mabolab\rule\prolog
+copying build\lib\mabolab\rule\__init__.py -> build\bdist.win-amd64\egg\mabolab\rule
+creating build\bdist.win-amd64\egg\mabolab\scheduler
+copying build\lib\mabolab\scheduler\later.py -> build\bdist.win-amd64\egg\mabolab\scheduler
+copying build\lib\mabolab\scheduler\__init__.py -> build\bdist.win-amd64\egg\mabolab\scheduler
+copying build\lib\mabolab\static.py -> build\bdist.win-amd64\egg\mabolab
+creating build\bdist.win-amd64\egg\mabolab\tests
+copying build\lib\mabolab\tests\test_config.py -> build\bdist.win-amd64\egg\mabolab\tests
+copying build\lib\mabolab\tests\test_database.py -> build\bdist.win-amd64\egg\mabolab\tests
+copying build\lib\mabolab\tests\test_db_pool.py -> build\bdist.win-amd64\egg\mabolab\tests
+copying build\lib\mabolab\tests\test_opclib.py -> build\bdist.win-amd64\egg\mabolab\tests
+copying build\lib\mabolab\tests\test_settings.py -> build\bdist.win-amd64\egg\mabolab\tests
+copying build\lib\mabolab\tests\test_wmi.py -> build\bdist.win-amd64\egg\mabolab\tests
+copying build\lib\mabolab\tests\__init__.py -> build\bdist.win-amd64\egg\mabolab\tests
+creating build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\app_globals.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\auth.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\base.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\cmdshell.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\colorlib.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\config.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\dataprovider.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\datelib.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\DB.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\fetch.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\graphgen.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\linksparser.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\lunarcalendar.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\mcalendar.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\milib.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\miloganalyzer.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\oneline.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\paras.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\path2dot.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\perf2db.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\perf2sql.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\perf_analyzer.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\printer_connection.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\readclob.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\resbar.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\settings.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\singleton.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\sqlparser.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\statecache.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\timelib.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\twistedpg.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\wmi.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\utils\__init__.py -> build\bdist.win-amd64\egg\mabolab\utils
+copying build\lib\mabolab\version.py -> build\bdist.win-amd64\egg\mabolab
+creating build\bdist.win-amd64\egg\mabolab\versioncontrol
+copying build\lib\mabolab\versioncontrol\__init__.py -> build\bdist.win-amd64\egg\mabolab\versioncontrol
+creating build\bdist.win-amd64\egg\mabolab\web
+copying build\lib\mabolab\web\callMethod.py -> build\bdist.win-amd64\egg\mabolab\web
+copying build\lib\mabolab\web\configuration.py -> build\bdist.win-amd64\egg\mabolab\web
+copying build\lib\mabolab\web\__init__.py -> build\bdist.win-amd64\egg\mabolab\web
+copying build\lib\mabolab\__init__.py -> build\bdist.win-amd64\egg\mabolab
+byte-compiling build\bdist.win-amd64\egg\mabolab\archiving\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\cache\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\database\database.py to database.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\database\ora_pool.py to ora_pool.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\database\pool.py to pool.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\database\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\equipment\opc\opclib.py to opclib.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\equipment\opc\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\equipment\serial\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\equipment\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\label\prn_factory.py to prn_factory.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\label\str_format.py to str_format.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\label\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\logging\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\message\mail.py to mail.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\message\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\monitor\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\portal\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\processbuilder\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\report\r.py to r.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\report\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\rule\prolog\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\rule\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\scheduler\later.py to later.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\scheduler\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\static.py to static.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\tests\test_config.py to test_config.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\tests\test_database.py to test_database.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\tests\test_db_pool.py to test_db_pool.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\tests\test_opclib.py to test_opclib.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\tests\test_settings.py to test_settings.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\tests\test_wmi.py to test_wmi.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\tests\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\app_globals.py to app_globals.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\auth.py to auth.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\base.py to base.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\cmdshell.py to cmdshell.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\colorlib.py to colorlib.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\config.py to config.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\dataprovider.py to dataprovider.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\datelib.py to datelib.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\DB.py to DB.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\fetch.py to fetch.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\graphgen.py to graphgen.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\linksparser.py to linksparser.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\lunarcalendar.py to lunarcalendar.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\mcalendar.py to mcalendar.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\milib.py to milib.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\miloganalyzer.py to miloganalyzer.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\oneline.py to oneline.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\paras.py to paras.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\path2dot.py to path2dot.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\perf2db.py to perf2db.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\perf2sql.py to perf2sql.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\perf_analyzer.py to perf_analyzer.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\printer_connection.py to printer_connection.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\readclob.py to readclob.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\resbar.py to resbar.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\settings.py to settings.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\singleton.py to singleton.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\sqlparser.py to sqlparser.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\statecache.py to statecache.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\timelib.py to timelib.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\twistedpg.py to twistedpg.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\wmi.py to wmi.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\utils\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\version.py to version.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\versioncontrol\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\web\callMethod.py to callMethod.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\web\configuration.py to configuration.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\web\__init__.py to __init__.pyc
+byte-compiling build\bdist.win-amd64\egg\mabolab\__init__.py to __init__.pyc
+installing package data to build\bdist.win-amd64\egg
+running install_data
+copying mabolab\tests\mabo.ini -> build\bdist.win-amd64\egg\mabolab\tests
+creating build\bdist.win-amd64\egg\EGG-INFO
+copying mabolab.egg-info\PKG-INFO -> build\bdist.win-amd64\egg\EGG-INFO
+copying mabolab.egg-info\SOURCES.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying mabolab.egg-info\dependency_links.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying mabolab.egg-info\not-zip-safe -> build\bdist.win-amd64\egg\EGG-INFO
+copying mabolab.egg-info\requires.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying mabolab.egg-info\top_level.txt -> build\bdist.win-amd64\egg\EGG-INFO
+creating 'dist\mabolab-0.1-py2.7.egg' and adding 'build\bdist.win-amd64\egg' to it
+removing 'build\bdist.win-amd64\egg' (and everything under it)
+Processing mabolab-0.1-py2.7.egg
+removing 'c:\python27\lib\site-packages\mabolab-0.1-py2.7.egg' (and everything under it)
+creating c:\python27\lib\site-packages\mabolab-0.1-py2.7.egg
+Extracting mabolab-0.1-py2.7.egg to c:\python27\lib\site-packages
+mabolab 0.1 is already the active version in easy-install.pth
+
+Installed c:\python27\lib\site-packages\mabolab-0.1-py2.7.egg
+Processing dependencies for mabolab==0.1

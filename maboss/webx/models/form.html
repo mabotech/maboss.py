@@ -1,0 +1,15 @@
+#compiler-settings
+cheetahVarStartToken = %%
+directiveStartToken = $$
+#end compiler-settings
+        <form class="form-horizontal">
+$$for %%column in %%columns: 
+          <div class="control-group">
+            <label class="control-label" for="%%{column[1].lower()">%%{column[1].capitalize()"</label>
+            <div class="controls">
+              <input type="text" id="%%{column[1].lower()" placeholder="%%{column[1].capitalize()">
+            </div>
+          </div><!-- %%{column[1].lower() -->
+$$end for                   
+        </form><!-- %%{{class_name}} -->
+ 

@@ -1,0 +1,11 @@
+        <form class="form-horizontal">
+{% for column in columns -%} 
+{%+  set text = column[1].split('_') |map('capitalize')| join(' ') %}
+          <div class="control-group">
+            <label class="control-label" for="id_{{ column[1].lower() }}">{{ text }}:</label>
+            <div class="controls">
+              <input type="text" id="id_{{ column[1].lower() }}" ng-model="form_data.{{ column[1].lower() }}" placeholder="{{ text }}" required>
+            </div>
+          </div><!-- {{column[1].lower() }} -->
+{% endfor %}                  
+        </form><!-- {{class_name}} -->

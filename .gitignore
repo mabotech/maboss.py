@@ -45,6 +45,11 @@ coverage.xml
 # Rope
 .ropeproject
 
+#logs
+logs/
+
+static/
+
 # Django stuff:
 *.log
 *.pot
